@@ -1,0 +1,21 @@
+Visual Basic
+
+Date de création : Date de première version : 1991
+
+
+Usage ?
+
+permet le développement rapide d'applications, 
+la création d'interfaces utilisateur graphiques, 
+l'accès aux bases de données (en utilisant les technologies DAO, ADO et RDO)
+création de contrôles ou objets ActiveX.
+
+
+Fortement ou faiblement typé ? fortment
+
+
+Typage dynamique ?  non  --  statique
+
+Interprété ou natif ? aucun idée -- il est interprêté par la machine virtuelle
+
+Classement ? 6. en mai 2022
